@@ -1,0 +1,17 @@
+#foto{
+    border: 7px solid #fff;
+    width:202px; height=128px;
+}
+
+#foto1{
+    border: 7px solid #fff;
+    width:202px; height=128px;
+}
+
+#pic{
+    float: left;
+    margin-left: 600px;
+    margin-top: -200px;
+    width: 480px;
+    height: 220px;
+}
